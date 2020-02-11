@@ -1,5 +1,9 @@
 {
     "files.associations": {
-        "co_sdo.h": "c"
+        "co_sdo.h": "c",
+        "canopen.h": "c",
+        "co_driver.h": "c",
+        "co_od.h": "c",
+        "task.h": "c"
     }
 }
